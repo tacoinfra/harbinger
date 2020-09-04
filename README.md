@@ -15,7 +15,7 @@ Harbinger stores "candles" of prices of assets. Specifically, each data point fo
 The easiest way to get started with Harbinger is to install and use the [Harbinger CLI](https://github.com/tacoinfra/harbinger-cli):
 
 ```shell
-$ npm i -g harbinger
+$ npm i -g @tacoinfra/harbinger-cli
 $ harbinger --help
 ```
 
