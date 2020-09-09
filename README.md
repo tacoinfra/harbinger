@@ -37,16 +37,16 @@ Contracts for Harbinger are deployed at the following addresses:
 * CarthageNet
   * Coinbase
     * Storage: [KT1P7D7jt3PfjMpsEKPyao1kHQR93t7XR5zh](https://carthage.tzkt.io/KT1P7D7jt3PfjMpsEKPyao1kHQR93t7XR5zh/storage)
-    * Normalizer: [KT1VsWxgE683MiXoaevLbXtpJqpWrcaWaQV7](https://carthage.tzkt.io/KT1VsWxgE683MiXoaevLbXtpJqpWrcaWaQV7/storage)
+    * Normalizer: [KT1GcGnKfx8MP3m6axQkkfUiaBM4orYxL5MQ](https://carthage.tzkt.io/KT1GcGnKfx8MP3m6axQkkfUiaBM4orYxL5MQ/storage)
   * Binance
     * Storage: [KT1XZitEQjpKRUC1k5gpW5qVehiKqB7BfuJn](https://carthage.tzkt.io/KT1XZitEQjpKRUC1k5gpW5qVehiKqB7BfuJn/storage)
-    * Normalizer: [KT1VsWxgE683MiXoaevLbXtpJqpWrcaWaQV7](https://carthage.tzkt.io/KT1VsWxgE683MiXoaevLbXtpJqpWrcaWaQV7/storage)
+    * Normalizer: [KT1QefkWnhqCo4mnMaPBjMr7yy6N7pJbzyBJ](https://carthage.tzkt.io/KT1QefkWnhqCo4mnMaPBjMr7yy6N7pJbzyBJ/storage)
   * Gemini
     * Storage: [KT1VZprQjiuHG9qz2F7hhiSgzttq9qw6Vvb9](https://carthage.tzkt.io/KT1VZprQjiuHG9qz2F7hhiSgzttq9qw6Vvb9/storage)
-    * Normalizer: [KT1XSdAhxb5N23382VJedusDBdcrHW6Ci7Wz](https://carthage.tzkt.io/KT1XSdAhxb5N23382VJedusDBdcrHW6Ci7Wz/storage)
+    * Normalizer: [KT1N897aHVKtZ2UTbhw6DydZW7aRCUYff4E9](https://carthage.tzkt.io/KT1N897aHVKtZ2UTbhw6DydZW7aRCUYff4E9/storage)
   * OKEx
     * Storage: [KT1XnxcyYsPGXb5pCFeykcQvXggTcY1qfX1i](https://carthage.tzkt.io/KT1XnxcyYsPGXb5pCFeykcQvXggTcY1qfX1i/storage)
-    * Normalizer: [KT1KS2HGyYuoVuNgqGh5947DhmZu7JsAyy58](https://carthage.tzkt.io/KT1KS2HGyYuoVuNgqGh5947DhmZu7JsAyy58/storage)
+    * Normalizer: [KT1Wxy2V4zqNu2NCDNJAtc26UNVEdLHjB7V8](https://carthage.tzkt.io/KT1Wxy2V4zqNu2NCDNJAtc26UNVEdLHjB7V8/storage)
 
 ## Repositories
 
