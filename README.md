@@ -34,19 +34,19 @@ Contracts for Harbinger are deployed at the following addresses:
   * OKEx
     * Storage: [KT1G3UMEkhxso5cdx2fvoJRJu5nUjBWKMrET](https://tzkt.io/KT1G3UMEkhxso5cdx2fvoJRJu5nUjBWKMrET/storage)
     * Normalizer: [KT1J623FNZ6an8NHkWFbtvm5bKXgFzhBc5Zf](https://tzkt.io/KT1J623FNZ6an8NHkWFbtvm5bKXgFzhBc5Zf/storage)
-* CarthageNet
+* DelphiNet
   * Coinbase
-    * Storage: [KT1P7D7jt3PfjMpsEKPyao1kHQR93t7XR5zh](https://carthage.tzkt.io/KT1P7D7jt3PfjMpsEKPyao1kHQR93t7XR5zh/storage)
-    * Normalizer: [KT1GcGnKfx8MP3m6axQkkfUiaBM4orYxL5MQ](https://carthage.tzkt.io/KT1GcGnKfx8MP3m6axQkkfUiaBM4orYxL5MQ/storage)
+    * Storage: [KT1NNfziS5orym8pLvp2qsTjbq2ai9H8sDSr](https://delphi.tzkt.io/KT1NNfziS5orym8pLvp2qsTjbq2ai9H8sDSr/storage)
+    * Normalizer: [KT1LWDzd6mFhjjnb65a1PjHDNZtFKBieTQKH](https://delphi.tzkt.io/KT1LWDzd6mFhjjnb65a1PjHDNZtFKBieTQKH/storage)
   * Binance
-    * Storage: [KT1XZitEQjpKRUC1k5gpW5qVehiKqB7BfuJn](https://carthage.tzkt.io/KT1XZitEQjpKRUC1k5gpW5qVehiKqB7BfuJn/storage)
-    * Normalizer: [KT1QefkWnhqCo4mnMaPBjMr7yy6N7pJbzyBJ](https://carthage.tzkt.io/KT1QefkWnhqCo4mnMaPBjMr7yy6N7pJbzyBJ/storage)
+    * Storage: [KT1F5MSPLiiEmqnePPBUJajPV7zPkU4qWHkZ](https://delphi.tzkt.io/KT1F5MSPLiiEmqnePPBUJajPV7zPkU4qWHkZ/storage)
+    * Normalizer: [KT1Age13nBE2VXxTPjwVJiE8Jbt73kumwxYx](https://delphi.tzkt.io/KT1Age13nBE2VXxTPjwVJiE8Jbt73kumwxYx/storage)
   * Gemini
-    * Storage: [KT1VZprQjiuHG9qz2F7hhiSgzttq9qw6Vvb9](https://carthage.tzkt.io/KT1VZprQjiuHG9qz2F7hhiSgzttq9qw6Vvb9/storage)
-    * Normalizer: [KT1N897aHVKtZ2UTbhw6DydZW7aRCUYff4E9](https://carthage.tzkt.io/KT1N897aHVKtZ2UTbhw6DydZW7aRCUYff4E9/storage)
+    * Storage: [KT1WmbY7rSG8WufQArssoda99jNhFcHqELB2](https://delphi.tzkt.io/KT1WmbY7rSG8WufQArssoda99jNhFcHqELB2/storage)
+    * Normalizer: [KT1VYnz5peWhfPcpBiViBZXa6Z8na3gqdkZS](https://delphi.tzkt.io/KT1VYnz5peWhfPcpBiViBZXa6Z8na3gqdkZS/storage)
   * OKEx
-    * Storage: [KT1XnxcyYsPGXb5pCFeykcQvXggTcY1qfX1i](https://carthage.tzkt.io/KT1XnxcyYsPGXb5pCFeykcQvXggTcY1qfX1i/storage)
-    * Normalizer: [KT1Wxy2V4zqNu2NCDNJAtc26UNVEdLHjB7V8](https://carthage.tzkt.io/KT1Wxy2V4zqNu2NCDNJAtc26UNVEdLHjB7V8/storage)
+    * Storage: [KT1EVxgjWF74AzHpZcKYgfvRoewNATQkWQpE](https://delphi.tzkt.io/KT1EVxgjWF74AzHpZcKYgfvRoewNATQkWQpE/storage)
+    * Normalizer: [KT1NF3n2nPNEa5bd88V4tk1vGWhFfugwuw7K](https://delphi.tzkt.io/KT1NF3n2nPNEa5bd88V4tk1vGWhFfugwuw7K/storage)
 
 ## Repositories
 
