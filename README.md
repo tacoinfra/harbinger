@@ -34,19 +34,15 @@ Contracts for Harbinger are deployed at the following addresses:
   * OKEx
     * Storage: [KT1G3UMEkhxso5cdx2fvoJRJu5nUjBWKMrET](https://tzkt.io/KT1G3UMEkhxso5cdx2fvoJRJu5nUjBWKMrET/storage)
     * Normalizer: [KT1J623FNZ6an8NHkWFbtvm5bKXgFzhBc5Zf](https://tzkt.io/KT1J623FNZ6an8NHkWFbtvm5bKXgFzhBc5Zf/storage)
-* DelphiNet
+* Florencenet
   * Coinbase
-    * Storage: [KT1NNfziS5orym8pLvp2qsTjbq2ai9H8sDSr](https://delphi.tzkt.io/KT1NNfziS5orym8pLvp2qsTjbq2ai9H8sDSr/storage)
-    * Normalizer: [KT1LWDzd6mFhjjnb65a1PjHDNZtFKBieTQKH](https://delphi.tzkt.io/KT1LWDzd6mFhjjnb65a1PjHDNZtFKBieTQKH/storage)
-  * Binance
-    * Storage: [KT1F5MSPLiiEmqnePPBUJajPV7zPkU4qWHkZ](https://delphi.tzkt.io/KT1F5MSPLiiEmqnePPBUJajPV7zPkU4qWHkZ/storage)
-    * Normalizer: [KT1Age13nBE2VXxTPjwVJiE8Jbt73kumwxYx](https://delphi.tzkt.io/KT1Age13nBE2VXxTPjwVJiE8Jbt73kumwxYx/storage)
-  * Gemini
-    * Storage: [KT1WmbY7rSG8WufQArssoda99jNhFcHqELB2](https://delphi.tzkt.io/KT1WmbY7rSG8WufQArssoda99jNhFcHqELB2/storage)
-    * Normalizer: [KT1VYnz5peWhfPcpBiViBZXa6Z8na3gqdkZS](https://delphi.tzkt.io/KT1VYnz5peWhfPcpBiViBZXa6Z8na3gqdkZS/storage)
-  * OKEx
-    * Storage: [KT1EVxgjWF74AzHpZcKYgfvRoewNATQkWQpE](https://delphi.tzkt.io/KT1EVxgjWF74AzHpZcKYgfvRoewNATQkWQpE/storage)
-    * Normalizer: [KT1NF3n2nPNEa5bd88V4tk1vGWhFfugwuw7K](https://delphi.tzkt.io/KT1NF3n2nPNEa5bd88V4tk1vGWhFfugwuw7K/storage)
+    * Storage: [KT1PuT2NwwNjnxKy5XZEDZGHQNgdtLgN69i9](https://florencenet.tzkt.io/KT1PuT2NwwNjnxKy5XZEDZGHQNgdtLgN69i9/storage)
+    * Normalizer: [KT1SUP27JhX24Kvr11oUdWswk7FnCW78ZyUn](https://florencenet.tzkt.io/KT1SUP27JhX24Kvr11oUdWswk7FnCW78ZyUn/storage)
+* Granadanet
+  * Coinbase
+    * Storage: [KT1ENR6CK7cBWCtZt1G3PovwTw3FgSW472mS](https://better-call.dev/granadanet/KT1ENR6CK7cBWCtZt1G3PovwTw3FgSW472mS/operations)
+    * Normalizer: [KT1MwuujtBodVQFm1Jk1KTGNc49wygqoLvpe](https://better-call.dev/granadanet/KT1MwuujtBodVQFm1Jk1KTGNc49wygqoLvpe/operations)
+
 
 ## Repositories
 
