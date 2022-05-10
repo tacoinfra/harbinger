@@ -23,33 +23,37 @@ Contracts for Harbinger are deployed at the following addresses:
 
 * MainNet
   * Coinbase
-    * Storage: [KT1Jr5t9UvGiqkvvsuUbPJHaYx24NzdUwNW9](https://tzkt.io/KT1Jr5t9UvGiqkvvsuUbPJHaYx24NzdUwNW9/storage)
-    * Normalizer [KT1AdbYiPYb5hDuEuVrfxmFehtnBCXv4Np7r](https://tzkt.io/KT1AdbYiPYb5hDuEuVrfxmFehtnBCXv4Np7r/storage)
+    * Storage: [KT1Jr5t9UvGiqkvvsuUbPJHaYx24NzdUwNW9](https://tzkt.io/KT1Jr5t9UvGiqkvvsuUbPJHaYx24NzdUwNW9/operations)
+    * Normalizer [KT1AdbYiPYb5hDuEuVrfxmFehtnBCXv4Np7r](https://tzkt.io/KT1AdbYiPYb5hDuEuVrfxmFehtnBCXv4Np7r/operations)
   * Binance
-    * Storage: [KT1Mx5sFU4BZqnAaJRpMzqaPbd2qMCFmcqea](https://tzkt.io/KT1Mx5sFU4BZqnAaJRpMzqaPbd2qMCFmcqea/storage)
-    * Normalizer: [KT1SpD9Xh3PcmBGwbZPhVmHUM8shTwYhQFBa](https://tzkt.io/KT1SpD9Xh3PcmBGwbZPhVmHUM8shTwYhQFBa/storage)
+    * Storage: [KT1Mx5sFU4BZqnAaJRpMzqaPbd2qMCFmcqea](https://tzkt.io/KT1Mx5sFU4BZqnAaJRpMzqaPbd2qMCFmcqea/operations)
+    * Normalizer: [KT1SpD9Xh3PcmBGwbZPhVmHUM8shTwYhQFBa](https://tzkt.io/KT1SpD9Xh3PcmBGwbZPhVmHUM8shTwYhQFBa/operations)
   * Gemini
-    * Storage: [KT1Jud6STRGZs6hSfgZsaeztbkzfwC3JswJP](https://tzkt.io/KT1Jud6STRGZs6hSfgZsaeztbkzfwC3JswJP/storage)
-    * Normalizer: [KT1JywdJbaVW5HtsYh4XNNuHcVL2vE6sYh7W](https://tzkt.io/KT1JywdJbaVW5HtsYh4XNNuHcVL2vE6sYh7W/storage)
+    * Storage: [KT1Jud6STRGZs6hSfgZsaeztbkzfwC3JswJP](https://tzkt.io/KT1Jud6STRGZs6hSfgZsaeztbkzfwC3JswJP/operations)
+    * Normalizer: [KT1JywdJbaVW5HtsYh4XNNuHcVL2vE6sYh7W](https://tzkt.io/KT1JywdJbaVW5HtsYh4XNNuHcVL2vE6sYh7W/operations)
   * OKEx
-    * Storage: [KT1G3UMEkhxso5cdx2fvoJRJu5nUjBWKMrET](https://tzkt.io/KT1G3UMEkhxso5cdx2fvoJRJu5nUjBWKMrET/storage)
-    * Normalizer: [KT1J623FNZ6an8NHkWFbtvm5bKXgFzhBc5Zf](https://tzkt.io/KT1J623FNZ6an8NHkWFbtvm5bKXgFzhBc5Zf/storage)
-* Florencenet
-  * Coinbase
-    * Storage: [KT1PuT2NwwNjnxKy5XZEDZGHQNgdtLgN69i9](https://florencenet.tzkt.io/KT1PuT2NwwNjnxKy5XZEDZGHQNgdtLgN69i9/storage)
-    * Normalizer: [KT1SUP27JhX24Kvr11oUdWswk7FnCW78ZyUn](https://florencenet.tzkt.io/KT1SUP27JhX24Kvr11oUdWswk7FnCW78ZyUn/storage)
-* Granadanet
-  * Coinbase
-    * Storage: [KT1ENR6CK7cBWCtZt1G3PovwTw3FgSW472mS](https://better-call.dev/granadanet/KT1ENR6CK7cBWCtZt1G3PovwTw3FgSW472mS/operations)
-    * Normalizer: [KT1MwuujtBodVQFm1Jk1KTGNc49wygqoLvpe](https://better-call.dev/granadanet/KT1MwuujtBodVQFm1Jk1KTGNc49wygqoLvpe/operations)
+    * Storage: [KT1G3UMEkhxso5cdx2fvoJRJu5nUjBWKMrET](https://tzkt.io/KT1G3UMEkhxso5cdx2fvoJRJu5nUjBWKMrET/operations)
+    * Normalizer: [KT1J623FNZ6an8NHkWFbtvm5bKXgFzhBc5Zf](https://tzkt.io/KT1J623FNZ6an8NHkWFbtvm5bKXgFzhBc5Zf/operations)
 * Hangzhounet
   * Coinbase
-    * Storage: [KT19yapgDLPR3CuvK32xJHgxNJigyNxjSr4y](https://better-call.dev/hangzhou2net/KT19yapgDLPR3CuvK32xJHgxNJigyNxjSr4y/operations)
-    * Normalizer: [KT1PMQZxQTrFPJn3pEaj9rvGfJA9Hvx7Z1CL](https://better-call.dev/hangzhou2net/KT1PMQZxQTrFPJn3pEaj9rvGfJA9Hvx7Z1CL/operations)
+    * Storage: [KT19yapgDLPR3CuvK32xJHgxNJigyNxjSr4y](https://hangzhounet.tzkt.io/KT19yapgDLPR3CuvK32xJHgxNJigyNxjSr4y/operations)
+    * Normalizer: [KT1PMQZxQTrFPJn3pEaj9rvGfJA9Hvx7Z1CL](https://hangzhounet.tzkt.io/KT1PMQZxQTrFPJn3pEaj9rvGfJA9Hvx7Z1CL/operations)
 * Ithacanet
   * Coinbase
-    * Storage: [KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM](https://better-call.dev/ithacanet/KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM/operations)
-    * Normalizer: [KT1ENe4jbDE1QVG1euryp23GsAeWuEwJutQX](https://better-call.dev/ithacanet/KT1ENe4jbDE1QVG1euryp23GsAeWuEwJutQX/operations)
+    * Storage: [KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM](https://ithacanet.tzkt.io/KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM/operations)
+    * Normalizer: [KT1ENe4jbDE1QVG1euryp23GsAeWuEwJutQX](https://ithacanet.tzkt.io/KT1ENe4jbDE1QVG1euryp23GsAeWuEwJutQX/operations)
+
+_Contracts for Harbinger deployed at the following addresses are now deprecated due to their protocols :_
+
+* Florencenet _(deprecated)_
+  * Coinbase
+    * Storage: ~~[KT1PuT2NwwNjnxKy5XZEDZGHQNgdtLgN69i9](https://florencenet.tzkt.io/KT1PuT2NwwNjnxKy5XZEDZGHQNgdtLgN69i9/operations)~~
+    * Normalizer: ~~[KT1SUP27JhX24Kvr11oUdWswk7FnCW78ZyUn](https://florencenet.tzkt.io/KT1SUP27JhX24Kvr11oUdWswk7FnCW78ZyUn/operations)~~
+* Granadanet _(deprecated)_
+  * Coinbase
+    * Storage: ~~[KT1ENR6CK7cBWCtZt1G3PovwTw3FgSW472mS](https://granadanet.tzkt.io/KT1ENR6CK7cBWCtZt1G3PovwTw3FgSW472mS/operations)~~
+    * Normalizer: ~~[KT1MwuujtBodVQFm1Jk1KTGNc49wygqoLvpe](https://granadanet.tzkt.io/KT1MwuujtBodVQFm1Jk1KTGNc49wygqoLvpe/operations)~~
+
 
 ## Repositories
 
