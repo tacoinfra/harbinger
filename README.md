@@ -45,7 +45,7 @@ Contracts for Harbinger are deployed at the following addresses:
 * Hangzhounet
   * Coinbase
     * Storage: [KT19yapgDLPR3CuvK32xJHgxNJigyNxjSr4y](https://better-call.dev/hangzhou2net/KT19yapgDLPR3CuvK32xJHgxNJigyNxjSr4y/operations)
-    * Normalizer: [KT1PMQZxQTrFPJn3pEaj9rvGfJA9Hvx7Z1CL](https://better-call.dev/hangzhou2net/KT1PMQZxQTrFPJn3pEaj9rvGfJA9Hvx7Z1CL/storage)
+    * Normalizer: [KT1PMQZxQTrFPJn3pEaj9rvGfJA9Hvx7Z1CL](https://better-call.dev/hangzhou2net/KT1PMQZxQTrFPJn3pEaj9rvGfJA9Hvx7Z1CL/operations)
 * Ithacanet
   * Coinbase
     * Storage: [KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM](https://better-call.dev/ithacanet/KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM/operations)
