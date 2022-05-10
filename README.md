@@ -42,7 +42,14 @@ Contracts for Harbinger are deployed at the following addresses:
   * Coinbase
     * Storage: [KT1ENR6CK7cBWCtZt1G3PovwTw3FgSW472mS](https://better-call.dev/granadanet/KT1ENR6CK7cBWCtZt1G3PovwTw3FgSW472mS/operations)
     * Normalizer: [KT1MwuujtBodVQFm1Jk1KTGNc49wygqoLvpe](https://better-call.dev/granadanet/KT1MwuujtBodVQFm1Jk1KTGNc49wygqoLvpe/operations)
-
+* Hangzhounet
+  * Coinbase
+    * Storage: [KT19yapgDLPR3CuvK32xJHgxNJigyNxjSr4y](https://better-call.dev/hangzhou2net/KT19yapgDLPR3CuvK32xJHgxNJigyNxjSr4y/operations)
+    * Normalizer: [KT1PMQZxQTrFPJn3pEaj9rvGfJA9Hvx7Z1CL](https://better-call.dev/hangzhou2net/KT1PMQZxQTrFPJn3pEaj9rvGfJA9Hvx7Z1CL/storage)
+* Ithacanet
+  * Coinbase
+    * Storage: [KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM](https://better-call.dev/ithacanet/KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM/operations)
+    * Normalizer: [KT1ENe4jbDE1QVG1euryp23GsAeWuEwJutQX](https://better-call.dev/ithacanet/KT1ENe4jbDE1QVG1euryp23GsAeWuEwJutQX/operations)
 
 ## Repositories
 
