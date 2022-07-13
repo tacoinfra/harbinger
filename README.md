@@ -16,6 +16,11 @@ If you are just interested in using Harbinger as a client, the current contract 
     * Normalizer: [KT1LQU73CxMMeRtJdNGHA9JXJsTw3WDsay4B](https://ghostnet.tzkt.io/KT1LQU73CxMMeRtJdNGHA9JXJsTw3WDsay4B)
 ```
 
+You can view current Harbinger data at:
+
+* Mainnet: https://harbinger.live/
+* Testnet: https://testnet.harbinger.live/
+
 If you'd like to understand more about Harbinger works, read on!
 
 ## Introduction
