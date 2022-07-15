@@ -12,7 +12,7 @@ If you are just interested in using Harbinger as a client, the current contract 
 
 * Ghostnet
   * Coinbase
-    * Storage:[KT1LQU73CxMMeRtJdNGHA9JXJsTw3WDsay4B]()https://ghostnet.tzkt.io/KT1LQU73CxMMeRtJdNGHA9JXJsTw3WDsay4B)
+    * Storage:[KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM]()https://ghostnet.tzkt.io/KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM)
     * Normalizer: [KT1LQU73CxMMeRtJdNGHA9JXJsTw3WDsay4B](https://ghostnet.tzkt.io/KT1LQU73CxMMeRtJdNGHA9JXJsTw3WDsay4B)
 ```
 
