@@ -1,5 +1,28 @@
 # Harbinger
 
+## Contracts
+
+If you are just interested in using Harbinger as a client, the current contract addresses are:
+
+```
+* Mainnet
+  * Coinbase
+    * Storage: [KT19B8uSfiQ8Cxk99ELc7MPccQ9ihyy7jhDU](https://tzkt.io/KT19B8uSfiQ8Cxk99ELc7MPccQ9ihyy7jhDU/storage)
+    * Normalizer: [KT1KBrn1udLLrGNbQ3n1mWgMVXkr26krj6Nj](https://tzkt.io/KT1KBrn1udLLrGNbQ3n1mWgMVXkr26krj6Nj/storage)
+
+* Ghostnet
+  * Coinbase
+    * Storage:[KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM]()https://ghostnet.tzkt.io/KT1UcwQtaztLSq8oufdXAtWpRTfFySCj7gFM)
+    * Normalizer: [KT1ENe4jbDE1QVG1euryp23GsAeWuEwJutQX](https://ghostnet.tzkt.io/KT1ENe4jbDE1QVG1euryp23GsAeWuEwJutQX)
+```
+
+You can view current Harbinger data at:
+
+* Mainnet: https://harbinger.live/
+* Testnet: https://testnet.harbinger.live/
+
+If you'd like to understand more about Harbinger works, read on!
+
 ## Introduction
 
 Harbinger is a signed price feed for the [Tezos blockchain](https://tezos.com/) which provides a trusted price oracle for digital assets.
